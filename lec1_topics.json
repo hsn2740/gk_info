@@ -1,0 +1,30 @@
+{
+  "title": "Lecture 1 Topics",
+  "topics": [
+    {
+      "id": "area",
+      "name": "Area & Boundaries",
+      "quiz_file": "https://raw.githubusercontent.com/hsn2740/gk_info/main/topics/lecture1/area.json"
+    },
+    {
+      "id": "rivers",
+      "name": "Rivers & Water Bodies",
+      "quiz_file": "data/quizzes/gk/topics/lecture1/rivers.json"
+    },
+    {
+      "id": "hills",
+      "name": "Hills & Mountains",
+      "quiz_file": "data/quizzes/gk/topics/lecture1/hills.json"
+    },
+    {
+      "id": "nature",
+      "name": "Nature & Wildlife",
+      "quiz_file": "data/quizzes/gk/topics/lecture1/nature.json"
+    },
+    {
+      "id": "old_names",
+      "name": "Historical Names of Places",
+      "quiz_file": "https://raw.githubusercontent.com/hsn2740/gk_info/main/topics/lecture1/old_names.json"
+    }
+  ]
+}
