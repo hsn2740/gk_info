@@ -1,0 +1,35 @@
+{
+  "subjects": [
+    {
+      "id": "gk",
+      "name": "General Knowledge",
+      "icon": "globe",
+      "subunits_file": "data/gk_subunits.json",
+      "units": [
+        { "id": "bangladesh", "name": "Bangladesh" },
+        { "id": "world", "name": "World Affairs" },
+        { "id": "recent", "name": "Recent Highlights" }
+      ]
+    },
+    {
+      "id": "bangla",
+      "name": "Bangla",
+      "icon": "book-open",
+      "subunits_file": "data/bangla_subunits.json",
+      "units": [
+        { "id": "grammar", "name": "Grammar" },
+        { "id": "literature", "name": "Literature" }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "icon": "book",
+      "subunits_file": "data/english_subunits.json",
+      "units": [
+        { "id": "vocabulary", "name": "Vocabulary" },
+        { "id": "grammar_en", "name": "Grammar" }
+      ]
+    }
+  ]
+}

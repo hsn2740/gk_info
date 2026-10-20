@@ -1,0 +1,14 @@
+{
+  "bangladesh": [
+    {
+      "id": "lec-1",
+      "name": "Lecture 1: General Geography of Bangladesh",
+      "topics_file": "https://raw.githubusercontent.com/hsn2740/gk_info/main/lectures/lec1_topics.json"
+    },
+    {
+      "id": "lec-2",
+      "name": "Lecture 2: Agriculture & Economy",
+      "topics_file": "https://raw.githubusercontent.com/hsn2740/gk_info/main/lectures/lec2_topics.json"
+    }
+  ]
+}
