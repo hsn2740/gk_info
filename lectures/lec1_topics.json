@@ -3,13 +3,13 @@
   "topics": [
     {
       "id": "area",
-      "name": "Area & Boundaries",
+      "name": "আয়তন ও সীমান্ত",
       "quiz_file": "https://raw.githubusercontent.com/hsn2740/gk_info/main/topics/lecture1/area.json"
     },
     {
-      "id": "rivers",
-      "name": "Rivers & Water Bodies",
-      "quiz_file": "data/quizzes/gk/topics/lecture1/rivers.json"
+      "id": "birodhsimanto",
+      "name": "বিরোধপূর্ণ সীমান্ত",
+      "quiz_file": "https://raw.githubusercontent.com/hsn2740/gk_info/main/topics/lecture1/birodhsimanto.json"
     },
     {
       "id": "hills",
@@ -23,7 +23,7 @@
     },
     {
       "id": "old_names",
-      "name": "Historical Names of Places",
+      "name": "স্থানের পূর্বের নাম",
       "quiz_file": "https://raw.githubusercontent.com/hsn2740/gk_info/main/topics/lecture1/old_names.json"
     }
   ]
