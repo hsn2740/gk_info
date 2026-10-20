@@ -12,9 +12,9 @@
       "quiz_file": "https://raw.githubusercontent.com/hsn2740/gk_info/main/topics/lecture1/birodhsimanto.json"
     },
     {
-      "id": "hills",
-      "name": "Hills & Mountains",
-      "quiz_file": "data/quizzes/gk/topics/lecture1/hills.json"
+      "id": "seaborder",
+      "name": "সমুদ্রসীমা",
+      "quiz_file": "https://raw.githubusercontent.com/hsn2740/gk_info/main/topics/lecture1/seaborder.json"
     },
     {
       "id": "nature",
